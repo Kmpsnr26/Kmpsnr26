@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Kmpsnr26
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Kmpsnr26
 
-<!---
-Kmpsnr26/Kmpsnr26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Proyek
+
+- [HumanALE / NARA](https://github.com/Kmpsnr26/entitashuman) — repositori pengembangan HumanALE, avatar desktop, NARA Core, dan NARA Cloud.
+- [HumanALE-God-Engine-Backup](https://github.com/AleStudioDesign/HumanALE-God-Engine-Backup) — repositori backup HumanALE dengan alur pengembangan tersendiri.
+
+Dokumentasi, perubahan source, dan petunjuk verifikasi tersedia di masing-masing repositori.
